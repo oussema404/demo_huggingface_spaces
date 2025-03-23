@@ -1,4 +1,3 @@
-# demo_huggingface_spaces
 ---
 title: Demo App
 emoji: 🐠
